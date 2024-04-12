@@ -26,5 +26,5 @@
 *公司副总开会，部门副总裁在副总讲完话之后还总结，形式如：刚xx总，讲了三点分别是一，巴拉巴拉，二，巴拉巴拉，三巴拉巴拉，他竟然把领导讲话重复了一遍！
 
 4.关于问题处理
-
+https://github.com/QiPaGongSi/Chinatelecomglobal/blob/main/tsst2
 
