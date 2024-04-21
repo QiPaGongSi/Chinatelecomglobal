@@ -1,4 +1,4 @@
-##  Welcome everyone to share your experiences with the quirky companies you've encountered.
+# Welcome everyone to share your experiences with the quirky companies you've encountered.
 
 China Telecom Global, a subsidiary of China Telecom Group, is registered in Hong Kong and has offices in several continents, including Europe, the United States, and the Middle East, with thousands of employees currently.
 
@@ -6,14 +6,16 @@ China Telecom Global | What is China Telecom Global like? | Is China Telecom Glo
 
 No company is perfect, and there will always be issues and problems. If you can see this article before accepting a job offer and seriously consider whether you can accept these issues, then this article has served its purpose. As someone who has interviewed many candidates, I do not want to see others discovering such issues and injustices after joining the company. I sincerely hope they can read this article before making a decision.
 
-Quirky Company Structure
+1.Quirky Company Structure  
+---
 The company has numerous departments, ranging from a maximum of 200 employees to a minimum of 20. The highest-ranking officials within a department are Vice Presidents, and yes, there are more than ten of them.
 
 The hierarchical structure within a department goes from high to low as follows: Vice President, General Manager, Deputy General Manager, Business Director, Deputy Director, Team Leader, and Employee.
 
 It's worth noting that the Team Leader is also an employee. If you join as an employee, you'll find that your superior is not the department manager but a Team Leader designated by the department leadership.
 
-About Joining the Company
+2.About Joining the Company  
+---
 If you are based in Shenzhen and want to join China Telecom Global, be informed that you will be an outsourced employee.
 
 There are many outsourcing companies, including FESCO, CIIC, and China Post and Telecommunications Corporation. You will sign a labor contract with these companies and be assigned to China Telecom Global.
@@ -22,7 +24,8 @@ If you are based in Hong Kong, there is a possibility that you will also be an o
 
 Outsourcing companies may include but are not limited to China Communications Service Hong Kong, Design Institutes, and Gongcheng, among others.
 
-About Meetings
+3.About Meetings  
+---
 The company is very fond of holding meetings, and almost all of them lack a clear agenda. It's almost a guarantee that the following situations will occur:
 
 a. You receive a notification for a meeting in the afternoon, but you don't know what the content is. You'll need to understand and potentially reach a conclusion (or perhaps not) during the meeting, often engaging in aimless discussions.
@@ -31,17 +34,22 @@ b. You're informed at 10:30 about a meeting that started at 10:00. When you arri
 
 c. After a Vice President speaks, a department Vice President will summarize their speech, repeating points such as: "Just now, VP mentioned three points. The first is blah blah blah, the second is blah blah blah, and the third is blah blah blah." This redundancy is quite common.
 
-Issue Handling
+4.Issue Handling  
+---
 As mentioned in point 1, when you're an employee, your direct supervisor is a Team Leader who is also an employee and lacks decision-making power. So when you have questions, you ask them, and they ask the Director, who then asks the Deputy General Manager for a decision. This chain of command is quite common.
 
-Personal Development
+5.Personal Development  
+---
 Most of the management positions are filled by individuals transferred from Shenzhen Telecom, Guangdong Telecom, and other provincial telecom companies. If you join with the intention of rising to a management position, the chances are slim (to be cautious). It's more likely that the company will transfer someone from another company rather than promote someone from within.
 
-Severe Internal Competition
+6.Severe Internal Competition  
+---
 As mentioned in point 3, bloated and aimless meetings often lead to employees being constantly occupied, resulting in a chain reaction where weekends and weekdays are frequently interrupted by leaders asking for updates or information.
 
-Formalism
+7.Formalism  
+---
 China Telecom Global has conducted numerous surveys, claiming to be anonymous. However, before filling them out, you're required to log in with your real name. Perhaps this is what China Telecom Global considers "anonymous."
 
-Slogan vs Reality
+8.Slogan vs Reality  
+---
 Recently, the company released its corporate cultural values, one of which is "people-oriented." However, this isn't about putting the employee's needs first; it's about putting the leaders' needs first. During the National Day holiday, when many employees were out driving and enjoying their time off, leaders still demanded they join online meetings, even if it meant driving while on the call (which is illegal in China).
