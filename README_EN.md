@@ -52,4 +52,13 @@ China Telecom Global has conducted numerous surveys, claiming to be anonymous. H
 
 8.Slogan vs Reality  
 ---
-Recently, the company released its corporate cultural values, one of which is "people-oriented." However, this isn't about putting the employee's needs first; it's about putting the leaders' needs first. During the National Day holiday, when many employees were out driving and enjoying their time off, leaders still demanded they join online meetings, even if it meant driving while on the call (which is illegal in China).
+Recently, the company released its corporate cultural values, one of which is "people-oriented." However, this isn't about putting the employee's needs first; it's about putting the leaders' needs first. During the National Day holiday, when many employees were out driving and enjoying their time off, leaders still demanded they join online meetings, even if it meant driving while on the call (which is illegal in China).  
+
+9.Issues of Transformation  
+---
+The company has undergone sweeping reforms and embarked on numerous transformations, including business transformation and digital transformation. But where do these plans actually originate from? They stem from the imagination of grassroots employees. Here lies a paradox: if an employee knew how to transform, they wouldn't be an employee anymore. It's a case of "I know who I am, but I don't know who I am." Employees gather together, scratching their heads and coming up with ideas that are then labeled as "this is transformation."
+
+10.Favoritism and Dominance  
+---
+The leaders are always right, even when the department vice president knows that the company vice president is wrong or inappropriate, they still maintain a submissive expression and dare not speak up. In the end, when tasks are assigned to employees and mistakes are made, the blame falls squarely on their shoulders.
+Procurement in Hong Kong and other locations does not require open bidding but is instead internally decided. Suppliers here rely solely on their own abilities and connections.
